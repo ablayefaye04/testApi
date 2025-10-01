@@ -1,5 +1,35 @@
 [
-  { "id": 1, "name": "Khady", "email": "alice@example.com" },
-  { "id": 2, "name": "coumbel", "email": "bob@example.com" },
-  { "id": 3, "name": "ablaye", "email": "charlie@example.com" }
+  { 
+    "id": 1, 
+    "name": "Khady", 
+    "email": "alice@example.com",
+    "photo": "https://randomuser.me/api/portraits/women/1.jpg",
+    "age": 23,
+    "ville": "Dakar",
+    "pays": "Sénégal",
+    "telephone": "+221771234567",
+    "date_inscription": "2025-09-20"
+  },
+  { 
+    "id": 2, 
+    "name": "Coumbel", 
+    "email": "bob@example.com",
+    "photo": "https://randomuser.me/api/portraits/women/2.jpg",
+    "age": 25,
+    "ville": "Thiès",
+    "pays": "Sénégal",
+    "telephone": "+221781112233",
+    "date_inscription": "2025-09-22"
+  },
+  { 
+    "id": 3, 
+    "name": "Ablaye", 
+    "email": "charlie@example.com",
+    "photo": "https://randomuser.me/api/portraits/men/3.jpg",
+    "age": 28,
+    "ville": "Ziguinchor",
+    "pays": "Sénégal",
+    "telephone": "+221761998877",
+    "date_inscription": "2025-09-25"
+  }
 ]
